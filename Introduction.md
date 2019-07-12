@@ -1,5 +1,8 @@
 # Introduction  
   
+  
+>>Nature has evolved over billions of years, providing a rich source of inspiration {2, Preface}  
+
 >>The core principle of all CI-based optimization algorithms, which are better known as metaheuristic algorithms, is a way of trial and error to produce an acceptable solution to a complex problem in a reasonably practical time (Yang 2010) {1, Page 3}
 
   
