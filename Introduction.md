@@ -17,7 +17,9 @@ The good combination of these two major components will usually ensure that the 
 
 Metaheuristic algorithms can be classified in many ways. One way is to classify them as population-based (multiple agents or particles) or trajectory-based, an the other one is a single agent.  
 
->>The core principle of all CI-based optimization algorithms, which are better known as metaheuristic algorithms, is a way of trial and error to produce an acceptable solution to a complex problem in a reasonably practical time (Yang 2010) {1, Page 3}
+>>The core principle of all CI-based optimization algorithms, which are better known as metaheuristic algorithms, is a way of trial and error to produce an acceptable solution to a complex problem in a reasonably practical time (Yang 2010) {1, Page 3}  
+  
+An optimization algorithm is an iterative procedure, starting from an initial guess.
 
   
 **Refer to:**  
