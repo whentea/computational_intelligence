@@ -19,7 +19,7 @@ Metaheuristic algorithms can be classified in many ways. One way is to classify 
 
 >>The core principle of all CI-based optimization algorithms, which are better known as metaheuristic algorithms, is a way of trial and error to produce an acceptable solution to a complex problem in a reasonably practical time (Yang 2010) {1, Page 3}  
   
-An optimization algorithm is an iterative procedure, starting from an initial guess.
+An optimization algorithm is an iterative procedure, starting from an initial guess {2, Page 24}.
 
   
 **Refer to:**  
