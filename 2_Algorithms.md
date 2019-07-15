@@ -2,12 +2,12 @@
 
  
   
-*Algorithm  
-*Newton's Method  
--Newton-Rapson Method  
-*Optimization  
--Gradient-Based ALgorithm  
--Hill Climbing with random Restart  
+* Algorithm  
+* Newton's Method  
+- Newton-Rapson Method  
+* Optimization  
+- Gradient-Based ALgorithm  
+- Hill Climbing with random Restart  
 
 
 
