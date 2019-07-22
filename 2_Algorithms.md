@@ -12,14 +12,13 @@
 Example:  
 A simple algorithm for finding the square root of any positive number k > 0 or x.  
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{t&plus;1}&space;=&space;\frac{1}{2}\left&space;(&space;x_{t}&plus;\frac{k}{x_{t}}&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{t&plus;1}&space;=&space;\frac{1}{2}\left&space;(&space;x_{t}&plus;\frac{k}{x_{t}}&space;\right&space;)" title="x_{t+1} = \frac{1}{2}\left ( x_{t}+\frac{k}{x_{t}} \right )" /></a>  
-*For k = 7  
-*Starting from a guess solution <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}\neq&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}\neq&space;0" title="x_{0}\neq 0" /></a>  
+* For k = 7  
+* Starting from a guess solution <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}\neq&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}\neq&space;0" title="x_{0}\neq 0" /></a>  
 t is the iteration counter or index or pseudo-time or generation counter.  
-*With <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
+* With <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
 
 
-  
-
+Another topic is ...  
 * Newton's Method  
 - Newton-Rapson Method  
 * Optimization  
