@@ -17,9 +17,9 @@ A simple algorithm for finding the square root of any positive number k > 0 or x
 * With <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
 * With t is the iteration counter or index or pseudo-time or generation counter.  
 From the description, we have  
-1. <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
-2. <a href="https://www.codecogs.com/eqnedit.php?latex=x_{1}=&space;\frac{1}{2}\left&space;(&space;x_{0}&plus;\frac{7}{x_{0}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;1&plus;\frac{7}{1}&space;\right&space;)=&space;\frac{8}{2}=4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{1}=&space;\frac{1}{2}\left&space;(&space;x_{0}&plus;\frac{7}{x_{0}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;1&plus;\frac{7}{1}&space;\right&space;)=&space;\frac{8}{2}=4" title="x_{1}= \frac{1}{2}\left ( x_{0}+\frac{7}{x_{0}} \right )= \frac{1}{2}\left ( 1+\frac{7}{1} \right )= \frac{8}{2}=4" /></a>  
-3.
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{1}=&space;\frac{1}{2}\left&space;(&space;x_{0}&plus;\frac{7}{x_{0}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;1&plus;\frac{7}{1}&space;\right&space;)=&space;\frac{8}{2}=4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{1}=&space;\frac{1}{2}\left&space;(&space;x_{0}&plus;\frac{7}{x_{0}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;1&plus;\frac{7}{1}&space;\right&space;)=&space;\frac{8}{2}=4" title="x_{1}= \frac{1}{2}\left ( x_{0}+\frac{7}{x_{0}} \right )= \frac{1}{2}\left ( 1+\frac{7}{1} \right )= \frac{8}{2}=4" /></a>  
+
 
 
 
