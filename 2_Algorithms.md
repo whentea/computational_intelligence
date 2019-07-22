@@ -16,9 +16,15 @@ A simple algorithm for finding the square root of any positive number k > 0 or x
 * Starting from a guess solution <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}\neq&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}\neq&space;0" title="x_{0}\neq 0" /></a>  
 * With <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
 * With t is the iteration counter or index or pseudo-time or generation counter.  
+
+in fact, an actual number (using scientific calculator) is 2.64575131106  
 From the description, we have  
+  
+  
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{1}=&space;\frac{1}{2}\left&space;(&space;x_{0}&plus;\frac{7}{x_{0}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;1&plus;\frac{7}{1}&space;\right&space;)=&space;\frac{8}{2}=4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{1}=&space;\frac{1}{2}\left&space;(&space;x_{0}&plus;\frac{7}{x_{0}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;1&plus;\frac{7}{1}&space;\right&space;)=&space;\frac{8}{2}=4" title="x_{1}= \frac{1}{2}\left ( x_{0}+\frac{7}{x_{0}} \right )= \frac{1}{2}\left ( 1+\frac{7}{1} \right )= \frac{8}{2}=4" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{2}=&space;\frac{1}{2}\left&space;(&space;x_{1}&plus;\frac{7}{x_{1}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;4&plus;\frac{7}{4}&space;\right&space;)=&space;\frac{1}{2}(\frac{23}{4})=&space;2.875" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{2}=&space;\frac{1}{2}\left&space;(&space;x_{1}&plus;\frac{7}{x_{1}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;4&plus;\frac{7}{4}&space;\right&space;)=&space;\frac{1}{2}(\frac{23}{4})=&space;2.875" title="x_{2}= \frac{1}{2}\left ( x_{1}+\frac{7}{x_{1}} \right )= \frac{1}{2}\left ( 4+\frac{7}{4} \right )= \frac{1}{2}(\frac{23}{4})= 2.875" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{3}=&space;\frac{1}{2}\left&space;(&space;x_{2}&plus;\frac{7}{x_{2}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;2.875&plus;\frac{7}{2.875}&space;\right&space;)=&space;\frac{1}{2}(5.3097826087)=&space;2.65489130435" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{3}=&space;\frac{1}{2}\left&space;(&space;x_{2}&plus;\frac{7}{x_{2}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;2.875&plus;\frac{7}{2.875}&space;\right&space;)=&space;\frac{1}{2}(5.3097826087)=&space;2.65489130435" title="x_{3}= \frac{1}{2}\left ( x_{2}+\frac{7}{x_{2}} \right )= \frac{1}{2}\left ( 2.875+\frac{7}{2.875} \right )= \frac{1}{2}(5.3097826087)= 2.65489130435" /></a>  
 
 
 
