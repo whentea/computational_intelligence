@@ -17,7 +17,7 @@ A simple algorithm for finding the square root of any positive number k > 0 or x
 * With <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}=&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}=&space;1" title="x_{0}= 1" /></a>  
 * With t is the iteration counter or index or pseudo-time or generation counter.  
 
-In fact, the true value is 2.64575131106  (please, using scientific calculator) 
+In fact, the true value is 2.64575131106  (please, using scientific calculator)  
 From the description, we have  
   
   
@@ -28,7 +28,14 @@ From the description, we have
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{4}=&space;\frac{1}{2}\left&space;(&space;x_{3}&plus;\frac{7}{x_{3}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;2.65489130435&plus;\frac{7}{2.65489130435}&space;\right&space;)=&space;2.64576704419" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{4}=&space;\frac{1}{2}\left&space;(&space;x_{3}&plus;\frac{7}{x_{3}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;2.65489130435&plus;\frac{7}{2.65489130435}&space;\right&space;)=&space;2.64576704419" title="x_{4}= \frac{1}{2}\left ( x_{3}+\frac{7}{x_{3}} \right )= \frac{1}{2}\left ( 2.65489130435+\frac{7}{2.65489130435} \right )= 2.64576704419" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{5}=&space;\frac{1}{2}\left&space;(&space;x_{4}&plus;\frac{7}{x_{4}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;2.64576704419&plus;\frac{7}{2.64576704419}&space;\right&space;)=&space;2.64575131111" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{5}=&space;\frac{1}{2}\left&space;(&space;x_{4}&plus;\frac{7}{x_{4}}&space;\right&space;)=&space;\frac{1}{2}\left&space;(&space;2.64576704419&plus;\frac{7}{2.64576704419}&space;\right&space;)=&space;2.64575131111" title="x_{5}= \frac{1}{2}\left ( x_{4}+\frac{7}{x_{4}} \right )= \frac{1}{2}\left ( 2.64576704419+\frac{7}{2.64576704419} \right )= 2.64575131111" /></a>  
   
-Voila !!
+Voila !!  
+If u try once again, u will get:  
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{6}=\frac{1}{2}\left&space;(&space;x_{5}&plus;\frac{7}{x_{5}}&space;\right&space;)\rightarrow" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{6}=\frac{1}{2}\left&space;(&space;x_{5}&plus;\frac{7}{x_{5}}&space;\right&space;)\rightarrow" title="x_{6}=\frac{1}{2}\left ( x_{5}+\frac{7}{x_{5}} \right )\rightarrow" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{6}=\frac{1}{2}\left&space;(&space;2.64575131111&plus;\frac{7}{2.64575131111}&space;\right&space;)=&space;2.64575131106" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{6}=\frac{1}{2}\left&space;(&space;2.64575131111&plus;\frac{7}{2.64575131111}&space;\right&space;)=&space;2.64575131106" title="x_{6}=\frac{1}{2}\left ( 2.64575131111+\frac{7}{2.64575131111} \right )= 2.64575131106" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{7}=\frac{1}{2}\left&space;(x_{6}&space;&plus;\frac{7}{x_{6}}&space;\right&space;)n&space;\to" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{7}=\frac{1}{2}\left&space;(x_{6}&space;&plus;\frac{7}{x_{6}}&space;\right&space;)n&space;\to" title="x_{7}=\frac{1}{2}\left (x_{6} +\frac{7}{x_{6}} \right )n \to" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{7}=&space;\frac{1}{2}\left&space;(&space;2.64575131106&plus;\frac{7}{2.64575131106}&space;\right&space;)=&space;2.64575131106" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{7}=&space;\frac{1}{2}\left&space;(&space;2.64575131106&plus;\frac{7}{2.64575131106}&space;\right&space;)=&space;2.64575131106" title="x_{7}= \frac{1}{2}\left ( 2.64575131106+\frac{7}{2.64575131106} \right )= 2.64575131106" /></a>  
+
+
 
 
 
