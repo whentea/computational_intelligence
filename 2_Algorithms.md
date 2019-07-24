@@ -34,13 +34,15 @@ If u try once again, u will get:
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{6}=\frac{1}{2}\left&space;(&space;2.64575131111&plus;\frac{7}{2.64575131111}&space;\right&space;)=&space;2.64575131106" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{6}=\frac{1}{2}\left&space;(&space;2.64575131111&plus;\frac{7}{2.64575131111}&space;\right&space;)=&space;2.64575131106" title="x_{6}=\frac{1}{2}\left ( 2.64575131111+\frac{7}{2.64575131111} \right )= 2.64575131106" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{7}=\frac{1}{2}\left&space;(x_{6}&space;&plus;\frac{7}{x_{6}}&space;\right&space;)n&space;\to" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{7}=\frac{1}{2}\left&space;(x_{6}&space;&plus;\frac{7}{x_{6}}&space;\right&space;)n&space;\to" title="x_{7}=\frac{1}{2}\left (x_{6} +\frac{7}{x_{6}} \right )n \to" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{7}=&space;\frac{1}{2}\left&space;(&space;2.64575131106&plus;\frac{7}{2.64575131106}&space;\right&space;)=&space;2.64575131106" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{7}=&space;\frac{1}{2}\left&space;(&space;2.64575131106&plus;\frac{7}{2.64575131106}&space;\right&space;)=&space;2.64575131106" title="x_{7}= \frac{1}{2}\left ( 2.64575131106+\frac{7}{2.64575131106} \right )= 2.64575131106" /></a>  
-
-
-
-
+  
+A good choice of the initial value x will speed up the convergence {2, Page 2}  
+This highlights the importance of choosing the right initial starting point {2, Page 4}  
+The way to design a good iterative formula is very important {2, Page 3}  
 
 Another topic is ...  
 * Newton's Method  
+>>Newton's method is a widely used classic method for finding the zeros of a nonlinear univariate function of f(x) on the interval [a, b].  
+
 - Newton-Rapson Method  
 * Optimization  
 - Gradient-Based ALgorithm  
