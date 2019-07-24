@@ -42,6 +42,10 @@ The way to design a good iterative formula is very important {2, Page 3}
 Another topic is ...  
 * Newton's Method  
 >>Newton's method is a widely used classic method for finding the zeros of a nonlinear univariate function of f(x) on the interval [a, b].  
+  
+>>A Taylor Series is an expansion of a function into an infinite sum of terms, with increasing exponents of a variable, like x, x2, x3, etc.  
+>>Example : a taylor series of for <a href="https://www.codecogs.com/eqnedit.php?latex=e^{x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e^{x}" title="e^{x}" /></a>  
+   
 
 - Newton-Rapson Method  
 * Optimization  
