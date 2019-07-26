@@ -5,9 +5,7 @@
 
 {Yang, 2014, Page 14}   
 ## Introduction  
-CI is a branch of AI.  
-In principle, CI consists of any science-supported approaches and technologies for analyzing, cretaing and developing intelligent system.  
-Unlike AI that depends upon the knowledge derived from human expertise, however, mostly relies on the collection of numericla data and a set of nature-inspired computational paradigms. {1, 2}  
+CI is a branch of AI. In principle, CI consists of any science-supported approaches and technologies for analyzing, creating and developing intelligent system. Unlike AI that depends upon the knowledge derived from human expertise, however, CI mostly relies on the collection of numericla data and a set of nature-inspired computational paradigms. {1, 2}  
   
   
   
