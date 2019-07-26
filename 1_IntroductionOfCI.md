@@ -1,10 +1,17 @@
 # Computational-Intelligence  
 
  
-  
 >>Nature has evolved over billions of years, providing a rich source of inspiration {2, Preface}
 
-{Yang, 2014, Page 14}  
+{Yang, 2014, Page 14}   
+# Introduction  
+# Optimization : Core Principles and Technical Terms 
+# Brief History of CI-Based Optimization Algorithms  
+# Classification of CI-Based Optimization Algorithms  
+# No Free Lunch Theorem: The Reason behond New Algorithms  
+# Conclusion  
+
+
   
 Most convensional or classic algorithms are deterministric. Some deterministic optimization algorithms used the gradient information, so they are called gradient-based algorithms.  
 It does not work well in some discontinuity in the object function.  
