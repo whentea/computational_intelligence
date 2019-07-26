@@ -4,12 +4,12 @@
 >>Nature has evolved over billions of years, providing a rich source of inspiration {2, Preface}
 
 {Yang, 2014, Page 14}   
-# Introduction  
-# Optimization : Core Principles and Technical Terms 
-# Brief History of CI-Based Optimization Algorithms  
-# Classification of CI-Based Optimization Algorithms  
-# No Free Lunch Theorem: The Reason behond New Algorithms  
-# Conclusion  
+## Introduction  
+## Optimization : Core Principles and Technical Terms 
+## Brief History of CI-Based Optimization Algorithms  
+## Classification of CI-Based Optimization Algorithms  
+## No Free Lunch Theorem: The Reason behond New Algorithms  
+## Conclusion  
 
 
   
