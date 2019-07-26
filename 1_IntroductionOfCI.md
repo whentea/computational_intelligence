@@ -6,9 +6,14 @@
 {Yang, 2014, Page 14}   
 ## Introduction  
 CI is a branch of AI. In principle, CI consists of any science-supported approaches and technologies for analyzing, creating and developing intelligent system. Unlike AI that depends upon the knowledge derived from human expertise, however, CI mostly relies on the collection of numericla data and a set of nature-inspired computational paradigms. {1, 2}  
-  
-  
-  
+The major subject of CI is the study of unorthodox optimization technique.  
+To utilize a finite commodity to archieve certain goals or objectives.
+To produce the maximum acceptability considering the initial goal (objective function).  
+Optimization problem were solved either using  
+*calculus-based ethods  
+*random-based search  
+*enumerative searching technique  
+
 ## Optimization : Core Principles and Technical Terms 
 ## Brief History of CI-Based Optimization Algorithms  
 ## Classification of CI-Based Optimization Algorithms  
