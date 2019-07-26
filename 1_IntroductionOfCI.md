@@ -9,10 +9,12 @@ CI is a branch of AI. In principle, CI consists of any science-supported approac
 The major subject of CI is the study of unorthodox optimization technique.  
 To utilize a finite commodity to archieve certain goals or objectives.
 To produce the maximum acceptability considering the initial goal (objective function).  
-Optimization problem were solved either using  
+Traditionally, optimization problem were solved either using  
 *calculus-based ethods  
 *random-based search  
 *enumerative searching technique  
+Optimization technique can generally be divided into derivative and nonderivative methods depending on whether or not the derivative of the objective function are required in the optimization process.  
+
 
 ## Optimization : Core Principles and Technical Terms 
 ## Brief History of CI-Based Optimization Algorithms  
