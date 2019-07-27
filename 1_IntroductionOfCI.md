@@ -24,7 +24,13 @@ Memory vs Memory-Less
  
  
 ## Brief History of CI-Based Optimization Algorithms  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/brief.jpg" align="center" width="600">  
+
 ## Classification of CI-Based Optimization Algorithms  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/classification1.jpg" align="center" width="600">  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/classification2.jpg" align="center" width="600">  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/classification3.jpg" align="center" width="600">  
+
 ## No Free Lunch Theorem: The Reason behond New Algorithms  
 ## Conclusion  
 
