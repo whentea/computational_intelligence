@@ -5,15 +5,10 @@
 
 {Yang, 2014, Page 14}   
 ## Introduction  
-CI is a branch of AI. In principle, CI consists of any science-supported approaches and technologies for analyzing, creating and developing intelligent system. Unlike AI that depends upon the knowledge derived from human expertise, however, CI mostly relies on the collection of numericla data and a set of nature-inspired computational paradigms. {1, 2}  
+CI is a branch of AI. In principle, CI consists of any science-supported approaches and technologies for analyzing, creating and developing intelligent system. Unlike AI that depends upon the knowledge derived from human expertise, however, CI mostly relies on the collection of numerical data and a set of nature-inspired computational paradigms. {1, 2}  
 The major subject of CI is the study of unorthodox optimization technique.  
-To utilize a finite commodity to archieve certain goals or objectives.
-To produce the maximum acceptability considering the initial goal (objective function).  
-Traditionally, optimization problem were solved either using  
-*calculus-based ethods  
-*random-based search  
-*enumerative searching technique  
-Optimization technique can generally be divided into derivative and nonderivative methods depending on whether or not the derivative of the objective function are required in the optimization process.  
+The aims are to utilize a finite commodity to archieve certain goals or objectives and to produce the maximum acceptability considering the initial goal (objective function).  
+Traditionally, optimization problem were solved either using 3 ways like following diagram:  
 <img src="https://github.com/whentea/afbeldingeen/blob/master/traditional.jpg" align="center" width="600">  
 
 ## Optimization : Core Principles and Technical Terms  
@@ -31,7 +26,7 @@ Memory vs Memory-Less
 <img src="https://github.com/whentea/afbeldingeen/blob/master/classification2.jpg" align="center" width="600">  
 <img src="https://github.com/whentea/afbeldingeen/blob/master/classification3.jpg" align="center" width="600">  
 
-## No Free Lunch Theorem: The Reason behond New Algorithms  
+## No Free Lunch Theorem: The Reason behind New Algorithms  
 ## Conclusion  
 
 
