@@ -17,7 +17,11 @@ Optimization technique can generally be divided into derivative and nonderivativ
 <img src="https://github.com/whentea/afbeldingeen/blob/master/traditional.jpg" align="center" width="600">  
 
 ## Optimization : Core Principles and Technical Terms  
- <img src="https://github.com/whentea/afbeldingeen/blob/master/core.jpg" align="center" width="600">  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/core.jpg" align="center" width="600">  
+Memory vs Memory-Less  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/memory.jpg" align="center" width="600">  
+ 
+ 
  
 ## Brief History of CI-Based Optimization Algorithms  
 ## Classification of CI-Based Optimization Algorithms  
