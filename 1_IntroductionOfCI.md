@@ -16,8 +16,9 @@ Traditionally, optimization problem were solved either using
 Optimization technique can generally be divided into derivative and nonderivative methods depending on whether or not the derivative of the objective function are required in the optimization process.  
 <img src="https://github.com/whentea/afbeldingeen/blob/master/traditional.jpg" align="center" width="600">  
 
-
-## Optimization : Core Principles and Technical Terms 
+## Optimization : Core Principles and Technical Terms  
+ <img src="https://github.com/whentea/afbeldingeen/blob/master/core.jpg" align="center" width="600">  
+ 
 ## Brief History of CI-Based Optimization Algorithms  
 ## Classification of CI-Based Optimization Algorithms  
 ## No Free Lunch Theorem: The Reason behond New Algorithms  
