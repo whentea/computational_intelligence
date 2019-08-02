@@ -11,7 +11,7 @@
 
 
 A list of algorithms {Fister I., Yang, Brest J., 2013}  
-<img src="https://github.com/whentea/afbeldingeen/blob/master/review_Yang.jpg" align="center" width="600">  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/review_Yang.jpg" align="center" width="850">  
  
 
  
